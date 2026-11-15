@@ -89,3 +89,24 @@ Se utiliza SQLite. La base de datos local está excluida de Git. Para crear las 
 ## 10. Consideraciones
 
 Proyecto desarrollado con fines académicos y para ejecución local. Antes de utilizarlo en producción se deben configurar correctamente las credenciales, DEBUG, SECRET_KEY, autenticación y seguridad.
+
+
+## Evidencias del proyecto
+
+### 1. Pantalla de inicio de sesión
+![Login](evidencias/login.png)
+
+### 2. Pantalla principal
+![Pantalla principal](evidencias/principal.png)
+
+### 3. Formulario de registro de incidencias
+![Formulario](evidencias/formulario.png)
+
+### 4. Historial de comentarios
+![Comentarios](evidencias/comentarios.png)
+
+### 5. Alertas de incidencias
+![Alertas](evidencias/alertas.png)
+
+### 6. Dashboard de estadísticas
+![Dashboard](evidencias/dashboard.png)
